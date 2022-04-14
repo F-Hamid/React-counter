@@ -39,7 +39,7 @@ body {
 }
 
 .modal {
-  background-color: #df3f61;
+  background-color: #e8630a;
   color: #fff;
   width: 20rem;
   height: 20rem;
@@ -48,6 +48,7 @@ body {
   top: 6%;
   left: 50%;
   transform: translate(-50%);
+  overflow: hidden;
 }
 
 @media screen and (max-width: 600px) {
